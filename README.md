@@ -20,7 +20,7 @@ Zeno Car is a **fully interactive 3D car configurator** that allows users to exp
 ## 📂 Project Structure
 
 
-📁 images/         # Frame-by-frame images for car animation
-📄 index.html      # Main HTML file
-📄 style.css       # Styling and layout
-📄 script.js       # GSAP animations and scroll effects
+📁 images/         
+📄 index.html     
+📄 style.css      
+📄 script.js       
